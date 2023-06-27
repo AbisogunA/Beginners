@@ -1,1 +1,1 @@
-This is a file for analysis
+This is a file for analysis. Exploring visualization with PowerBI, SQL and Pivot Tables.
