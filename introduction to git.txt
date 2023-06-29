@@ -1,1 +1,2 @@
 This is a file for analysis. Exploring visualization with PowerBI, SQL and Pivot Tables.
+Three important tools in Data Analysis:
